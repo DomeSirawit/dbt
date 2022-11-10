@@ -10,3 +10,12 @@ bigquery setup : https://docs.getdbt.com/reference/warehouse-setups/bigquery-set
 connect bigquery : https://docs.getdbt.com/docs/get-started/getting-started/getting-set-up/setting-up-bigquery
 
 using jinja : https://docs.getdbt.com/docs/get-started/learning-more/using-jinja
+
+
+<img width="1044" alt="dbt-transform" src="https://user-images.githubusercontent.com/98679146/201068895-4124feac-52b7-430d-b2d4-70327a94c56e.png">
+
+
+
+
+
+https://blog.datath.com/

@@ -7,4 +7,4 @@ bigquery setup : https://docs.getdbt.com/reference/warehouse-setups/bigquery-set
 
 connect bigquery : https://docs.getdbt.com/docs/get-started/getting-started/getting-set-up/setting-up-bigquery
 
-
+using jinja : https://docs.getdbt.com/docs/get-started/learning-more/using-jinja

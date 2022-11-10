@@ -1,0 +1,299 @@
+Order_ID,Product,Quantity_Ordered,Price_Each,Refunded
+295714,iPhone,1,700,FALSE
+295726,iPhone,1,700,FALSE
+295735,iPhone,1,700,FALSE
+295737,iPhone,1,700,FALSE
+295762,iPhone,1,700,FALSE
+295823,iPhone,1,700,FALSE
+295851,iPhone,1,700,FALSE
+295854,iPhone,1,700,FALSE
+295885,iPhone,1,700,FALSE
+295716,20in Monitor,1,109.99,FALSE
+295807,20in Monitor,1,109.99,FALSE
+295817,20in Monitor,1,109.99,FALSE
+295855,20in Monitor,1,109.99,FALSE
+295901,20in Monitor,1,109.99,FALSE
+295908,20in Monitor,1,109.99,FALSE
+295681,Google Phone,1,600,FALSE
+295752,Google Phone,1,600,FALSE
+295775,Google Phone,1,600,FALSE
+295793,Google Phone,1,600,FALSE
+295822,Google Phone,1,600,FALSE
+295829,Google Phone,1,600,FALSE
+295834,Google Phone,1,600,FALSE
+295873,Google Phone,1,600,FALSE
+295915,Google Phone,1,600,FALSE
+295942,Google Phone,1,600,FALSE
+295745,Flatscreen TV,1,300,FALSE
+295846,Flatscreen TV,1,300,FALSE
+295896,Flatscreen TV,1,300,FALSE
+295676,ThinkPad Laptop,1,999.99,FALSE
+295697,ThinkPad Laptop,1,999.99,FALSE
+295852,ThinkPad Laptop,1,999.99,FALSE
+295890,ThinkPad Laptop,1,999.99,FALSE
+295941,ThinkPad Laptop,1,999.99,FALSE
+295698,Vareebadd Phone,1,400,FALSE
+295783,Vareebadd Phone,1,400,FALSE
+295668,27in FHD Monitor,1,149.99,FALSE
+295708,27in FHD Monitor,1,149.99,FALSE
+295719,27in FHD Monitor,1,149.99,FALSE
+295728,27in FHD Monitor,1,149.99,FALSE
+295733,27in FHD Monitor,1,149.99,FALSE
+295746,27in FHD Monitor,1,149.99,FALSE
+295763,27in FHD Monitor,1,149.99,FALSE
+295809,27in FHD Monitor,1,149.99,FALSE
+295877,27in FHD Monitor,1,149.99,FALSE
+295894,27in FHD Monitor,1,149.99,FALSE
+295897,27in FHD Monitor,1,149.99,FALSE
+295906,27in FHD Monitor,1,149.99,FALSE
+295917,27in FHD Monitor,1,149.99,FALSE
+295921,27in FHD Monitor,1,149.99,FALSE
+295681,Wired Headphones,1,11.99,FALSE
+295683,Wired Headphones,1,11.99,FALSE
+295685,Wired Headphones,1,11.99,FALSE
+295693,Wired Headphones,1,11.99,FALSE
+295704,Wired Headphones,1,11.99,FALSE
+295705,Wired Headphones,1,11.99,FALSE
+295722,Wired Headphones,1,11.99,FALSE
+295735,Wired Headphones,1,11.99,FALSE
+295748,Wired Headphones,1,11.99,FALSE
+295758,Wired Headphones,1,11.99,FALSE
+295759,Wired Headphones,1,11.99,FALSE
+295765,Wired Headphones,1,11.99,FALSE
+295779,Wired Headphones,1,11.99,FALSE
+295797,Wired Headphones,1,11.99,FALSE
+295798,Wired Headphones,1,11.99,FALSE
+295805,Wired Headphones,1,11.99,FALSE
+295818,Wired Headphones,1,11.99,FALSE
+295822,Wired Headphones,1,11.99,FALSE
+295824,Wired Headphones,1,11.99,FALSE
+295841,Wired Headphones,1,11.99,FALSE
+295853,Wired Headphones,1,11.99,FALSE
+295866,Wired Headphones,1,11.99,FALSE
+295867,Wired Headphones,1,11.99,FALSE
+295874,Wired Headphones,1,11.99,FALSE
+295882,Wired Headphones,1,11.99,FALSE
+295886,Wired Headphones,1,11.99,FALSE
+295887,Wired Headphones,1,11.99,FALSE
+295904,Wired Headphones,1,11.99,FALSE
+295924,Wired Headphones,1,11.99,FALSE
+295927,Wired Headphones,1,11.99,FALSE
+295930,Wired Headphones,1,11.99,FALSE
+295940,Wired Headphones,1,11.99,FALSE
+295666,LG Washing Machine,1,600,FALSE
+295689,LG Washing Machine,1,600,TRUE
+295665,Macbook Pro Laptop,1,1700,FALSE
+295712,Macbook Pro Laptop,1,1700,FALSE
+295717,Macbook Pro Laptop,1,1700,FALSE
+295871,Macbook Pro Laptop,1,1700,FALSE
+295667,USB-C Charging Cable,1,11.95,FALSE
+295669,USB-C Charging Cable,1,11.95,FALSE
+295671,USB-C Charging Cable,1,11.95,FALSE
+295679,USB-C Charging Cable,1,11.95,FALSE
+295681,USB-C Charging Cable,1,11.95,FALSE
+295682,USB-C Charging Cable,1,11.95,FALSE
+295686,USB-C Charging Cable,1,11.95,FALSE
+295731,USB-C Charging Cable,1,11.95,FALSE
+295739,USB-C Charging Cable,1,11.95,FALSE
+295740,USB-C Charging Cable,1,11.95,FALSE
+295743,USB-C Charging Cable,1,11.95,FALSE
+295776,USB-C Charging Cable,1,11.95,FALSE
+295780,USB-C Charging Cable,1,11.95,FALSE
+295781,USB-C Charging Cable,1,11.95,FALSE
+295783,USB-C Charging Cable,1,11.95,FALSE
+295784,USB-C Charging Cable,1,11.95,FALSE
+295786,USB-C Charging Cable,1,11.95,FALSE
+295787,USB-C Charging Cable,1,11.95,FALSE
+295791,USB-C Charging Cable,1,11.95,FALSE
+295793,USB-C Charging Cable,1,11.95,FALSE
+295816,USB-C Charging Cable,1,11.95,FALSE
+295817,USB-C Charging Cable,1,11.95,FALSE
+295826,USB-C Charging Cable,1,11.95,FALSE
+295828,USB-C Charging Cable,1,11.95,FALSE
+295829,USB-C Charging Cable,1,11.95,FALSE
+295833,USB-C Charging Cable,1,11.95,FALSE
+295835,USB-C Charging Cable,1,11.95,FALSE
+295850,USB-C Charging Cable,1,11.95,FALSE
+295856,USB-C Charging Cable,1,11.95,FALSE
+295857,USB-C Charging Cable,1,11.95,FALSE
+295859,USB-C Charging Cable,1,11.95,FALSE
+295860,USB-C Charging Cable,1,11.95,FALSE
+295868,USB-C Charging Cable,1,11.95,FALSE
+295878,USB-C Charging Cable,1,11.95,FALSE
+295881,USB-C Charging Cable,1,11.95,FALSE
+295889,USB-C Charging Cable,1,11.95,FALSE
+295892,USB-C Charging Cable,1,11.95,FALSE
+295899,USB-C Charging Cable,1,11.95,FALSE
+295670,AA Batteries (4-pack),1,3.84,FALSE
+295699,AA Batteries (4-pack),1,3.84,FALSE
+295703,AA Batteries (4-pack),1,3.84,FALSE
+295720,AA Batteries (4-pack),1,3.84,FALSE
+295723,AA Batteries (4-pack),1,3.84,FALSE
+295757,AA Batteries (4-pack),1,3.84,FALSE
+295778,AA Batteries (4-pack),1,3.84,FALSE
+295788,AA Batteries (4-pack),1,3.84,FALSE
+295812,AA Batteries (4-pack),1,3.84,FALSE
+295844,AA Batteries (4-pack),1,3.84,FALSE
+295863,AA Batteries (4-pack),1,3.84,FALSE
+295876,AA Batteries (4-pack),1,3.84,FALSE
+295880,AA Batteries (4-pack),1,3.84,FALSE
+295898,AA Batteries (4-pack),1,3.84,FALSE
+295900,AA Batteries (4-pack),1,3.84,FALSE
+295903,AA Batteries (4-pack),1,3.84,FALSE
+295909,AA Batteries (4-pack),1,3.84,FALSE
+295912,AA Batteries (4-pack),1,3.84,FALSE
+295918,AA Batteries (4-pack),1,3.84,FALSE
+295925,AA Batteries (4-pack),1,3.84,FALSE
+295935,AA Batteries (4-pack),1,3.84,FALSE
+295939,AA Batteries (4-pack),1,3.84,FALSE
+295794,27in 4K Gaming Monitor,1,389.99,FALSE
+295831,27in 4K Gaming Monitor,1,389.99,FALSE
+295840,27in 4K Gaming Monitor,1,389.99,FALSE
+295864,27in 4K Gaming Monitor,1,389.99,FALSE
+295883,27in 4K Gaming Monitor,1,389.99,FALSE
+295891,27in 4K Gaming Monitor,1,389.99,FALSE
+295920,27in 4K Gaming Monitor,1,389.99,FALSE
+295934,27in 4K Gaming Monitor,1,389.99,FALSE
+295721,34in Ultrawide Monitor,1,379.99,FALSE
+295729,34in Ultrawide Monitor,1,379.99,FALSE
+295730,34in Ultrawide Monitor,1,379.99,FALSE
+295753,34in Ultrawide Monitor,1,379.99,FALSE
+295756,34in Ultrawide Monitor,1,379.99,FALSE
+295782,34in Ultrawide Monitor,1,379.99,FALSE
+295802,34in Ultrawide Monitor,1,379.99,FALSE
+295838,34in Ultrawide Monitor,1,379.99,FALSE
+295847,34in Ultrawide Monitor,1,379.99,FALSE
+295872,34in Ultrawide Monitor,1,379.99,FALSE
+295879,34in Ultrawide Monitor,1,379.99,FALSE
+295710,AAA Batteries (4-pack),1,2.99,FALSE
+295734,AAA Batteries (4-pack),1,2.99,FALSE
+295738,AAA Batteries (4-pack),1,2.99,FALSE
+295751,AAA Batteries (4-pack),1,2.99,FALSE
+295767,AAA Batteries (4-pack),1,2.99,FALSE
+295771,AAA Batteries (4-pack),1,2.99,FALSE
+295777,AAA Batteries (4-pack),1,2.99,FALSE
+295799,AAA Batteries (4-pack),1,2.99,FALSE
+295800,AAA Batteries (4-pack),1,2.99,FALSE
+295808,AAA Batteries (4-pack),1,2.99,FALSE
+295811,AAA Batteries (4-pack),1,2.99,FALSE
+295858,AAA Batteries (4-pack),1,2.99,FALSE
+295862,AAA Batteries (4-pack),1,2.99,FALSE
+295884,AAA Batteries (4-pack),1,2.99,FALSE
+295893,AAA Batteries (4-pack),1,2.99,FALSE
+295895,AAA Batteries (4-pack),1,2.99,FALSE
+295914,AAA Batteries (4-pack),1,2.99,FALSE
+295918,AAA Batteries (4-pack),1,2.99,FALSE
+295928,AAA Batteries (4-pack),1,2.99,FALSE
+295933,AAA Batteries (4-pack),1,2.99,FALSE
+295936,AAA Batteries (4-pack),1,2.99,FALSE
+295687,Apple Airpods Headphones,1,150,TRUE
+295688,Apple Airpods Headphones,1,150,TRUE
+295690,Apple Airpods Headphones,1,150,TRUE
+295732,Apple Airpods Headphones,1,150,TRUE
+295735,Apple Airpods Headphones,1,150,FALSE
+295741,Apple Airpods Headphones,1,150,TRUE
+295742,Apple Airpods Headphones,1,150,TRUE
+295755,Apple Airpods Headphones,1,150,FALSE
+295773,Apple Airpods Headphones,1,150,TRUE
+295786,Apple Airpods Headphones,1,150,FALSE
+295795,Apple Airpods Headphones,1,150,FALSE
+295804,Apple Airpods Headphones,1,150,FALSE
+295825,Apple Airpods Headphones,1,150,FALSE
+295839,Apple Airpods Headphones,1,150,FALSE
+295842,Apple Airpods Headphones,1,150,FALSE
+295911,Apple Airpods Headphones,1,150,FALSE
+295913,Apple Airpods Headphones,1,150,FALSE
+295929,Apple Airpods Headphones,1,150,FALSE
+295932,Apple Airpods Headphones,1,150,FALSE
+295680,Lightning Charging Cable,1,14.95,FALSE
+295694,Lightning Charging Cable,1,14.95,FALSE
+295695,Lightning Charging Cable,1,14.95,FALSE
+295696,Lightning Charging Cable,1,14.95,FALSE
+295707,Lightning Charging Cable,1,14.95,FALSE
+295718,Lightning Charging Cable,1,14.95,FALSE
+295726,Lightning Charging Cable,1,14.95,FALSE
+295737,Lightning Charging Cable,1,14.95,FALSE
+295753,Lightning Charging Cable,1,14.95,FALSE
+295754,Lightning Charging Cable,1,14.95,FALSE
+295761,Lightning Charging Cable,1,14.95,FALSE
+295764,Lightning Charging Cable,1,14.95,FALSE
+295766,Lightning Charging Cable,1,14.95,FALSE
+295772,Lightning Charging Cable,1,14.95,FALSE
+295789,Lightning Charging Cable,1,14.95,FALSE
+295790,Lightning Charging Cable,1,14.95,FALSE
+295792,Lightning Charging Cable,1,14.95,FALSE
+295796,Lightning Charging Cable,1,14.95,FALSE
+295801,Lightning Charging Cable,1,14.95,FALSE
+295803,Lightning Charging Cable,1,14.95,FALSE
+295806,Lightning Charging Cable,1,14.95,FALSE
+295810,Lightning Charging Cable,1,14.95,FALSE
+295815,Lightning Charging Cable,1,14.95,FALSE
+295819,Lightning Charging Cable,1,14.95,FALSE
+295836,Lightning Charging Cable,1,14.95,FALSE
+295845,Lightning Charging Cable,1,14.95,FALSE
+295848,Lightning Charging Cable,1,14.95,FALSE
+295861,Lightning Charging Cable,1,14.95,FALSE
+295869,Lightning Charging Cable,1,14.95,FALSE
+295870,Lightning Charging Cable,1,14.95,FALSE
+295875,Lightning Charging Cable,1,14.95,FALSE
+295888,Lightning Charging Cable,1,14.95,FALSE
+295910,Lightning Charging Cable,1,14.95,FALSE
+295916,Lightning Charging Cable,1,14.95,FALSE
+295923,Lightning Charging Cable,1,14.95,FALSE
+295926,Lightning Charging Cable,1,14.95,FALSE
+295937,Lightning Charging Cable,1,14.95,FALSE
+295938,Lightning Charging Cable,1,14.95,FALSE
+295673,Bose SoundSport Headphones,1,99.99,FALSE
+295681,Bose SoundSport Headphones,1,99.99,FALSE
+295691,Bose SoundSport Headphones,1,99.99,FALSE
+295700,Bose SoundSport Headphones,1,99.99,FALSE
+295701,Bose SoundSport Headphones,1,99.99,FALSE
+295703,Bose SoundSport Headphones,1,99.99,FALSE
+295709,Bose SoundSport Headphones,1,99.99,FALSE
+295713,Bose SoundSport Headphones,1,99.99,FALSE
+295727,Bose SoundSport Headphones,1,99.99,FALSE
+295750,Bose SoundSport Headphones,1,99.99,FALSE
+295759,Bose SoundSport Headphones,1,99.99,FALSE
+295760,Bose SoundSport Headphones,1,99.99,FALSE
+295769,Bose SoundSport Headphones,1,99.99,FALSE
+295770,Bose SoundSport Headphones,1,99.99,FALSE
+295774,Bose SoundSport Headphones,1,99.99,FALSE
+295785,Bose SoundSport Headphones,1,99.99,FALSE
+295813,Bose SoundSport Headphones,1,99.99,FALSE
+295820,Bose SoundSport Headphones,1,99.99,FALSE
+295821,Bose SoundSport Headphones,1,99.99,FALSE
+295827,Bose SoundSport Headphones,1,99.99,FALSE
+295830,Bose SoundSport Headphones,1,99.99,FALSE
+295837,Bose SoundSport Headphones,1,99.99,FALSE
+295843,Bose SoundSport Headphones,1,99.99,FALSE
+295865,Bose SoundSport Headphones,1,99.99,FALSE
+295919,Bose SoundSport Headphones,1,99.99,FALSE
+295922,Bose SoundSport Headphones,1,99.99,FALSE
+295931,Bose SoundSport Headphones,1,99.99,FALSE
+295932,Bose SoundSport Headphones,1,99.99,FALSE
+295702,Wired Headphones,2,11.99,FALSE
+295749,Wired Headphones,2,11.99,FALSE
+295849,Wired Headphones,2,11.99,FALSE
+295672,USB-C Charging Cable,2,11.95,FALSE
+295675,USB-C Charging Cable,2,11.95,FALSE
+295698,USB-C Charging Cable,2,11.95,FALSE
+295715,USB-C Charging Cable,2,11.95,FALSE
+295736,USB-C Charging Cable,2,11.95,FALSE
+295677,AA Batteries (4-pack),2,3.84,FALSE
+295692,AA Batteries (4-pack),2,3.84,FALSE
+295724,AA Batteries (4-pack),2,3.84,FALSE
+295744,AA Batteries (4-pack),2,3.84,FALSE
+295832,AA Batteries (4-pack),2,3.84,FALSE
+295902,AA Batteries (4-pack),2,3.84,FALSE
+295905,AA Batteries (4-pack),2,3.84,FALSE
+295907,AA Batteries (4-pack),2,3.84,FALSE
+295678,AAA Batteries (4-pack),2,2.99,FALSE
+295711,AAA Batteries (4-pack),2,2.99,FALSE
+295768,AAA Batteries (4-pack),2,2.99,FALSE
+295747,AA Batteries (4-pack),3,3.84,FALSE
+295814,AA Batteries (4-pack),3,3.84,FALSE
+295706,AAA Batteries (4-pack),3,2.99,FALSE
+295725,AAA Batteries (4-pack),3,2.99,FALSE
+295943,AAA Batteries (4-pack),3,2.99,FALSE
+295674,AAA Batteries (4-pack),4,2.99,FALSE
+295684,AAA Batteries (4-pack),4,2.99,FALSE
